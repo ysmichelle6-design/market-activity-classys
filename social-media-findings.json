@@ -1,0 +1,54 @@
+{
+  "collected": "2026-09-18",
+  "alma_youtube": {
+    "channel": "@almalasersinternational4132",
+    "subscribers": "21.8万",
+    "videos": 261,
+    "past_year_videos": [
+      {"title": "Watch how Pixel Peel supports skin glow", "views": 206, "age": "1个月前"},
+      {"title": "WTMC Dr. Iratxe - (Spain) 16X9", "views": 9127, "age": "7个月前"},
+      {"title": "Alma Academy 2026, Lisbon #Shorts", "views": 274, "age": "7个月前"},
+      {"title": "Welcome to the Aesthetics Clinic, by Alma (x3)", "views": "106/70/132", "age": "7个月前"},
+      {"title": "Updating catalogue", "views": 100, "age": "8个月前"},
+      {"title": "Consultation flow step by step with Alma IQ", "views": 198, "age": "8个月前"},
+      {"title": "What Sets Alma IQ Apart From Other Skin Scanners", "views": 203, "age": "8个月前"},
+      {"title": "2025 Recap video V6", "views": 6113, "age": "8个月前"}
+    ],
+    "note": "近一年仅约11条视频，更新频率低；高播放老视频如 Redefining future (67万) 为历史内容"
+  },
+  "classys_youtube_en": {
+    "channel": "@classys_inc",
+    "subscribers": "2000",
+    "videos": 173,
+    "past_year_videos": 0,
+    "note": "英文频道已停更（最新视频约2年前），海外视频营销已转向 Instagram"
+  },
+  "classys_youtube_kr": {
+    "channel": "UCVQvdzrmbTo2QTJalhw4coQ (클래시스)",
+    "subscribers": "3510",
+    "videos": 105,
+    "ad_campaigns": [
+      {"campaign": "볼뉴머 박서준 '당신을 위로합니다' 15\"", "published": "2025-07-06", "views": "1207万"},
+      {"campaign": "슈링크 유니버스 '올림' 채수빈 15\"", "published": "2025-09-04", "views": "58万"},
+      {"campaign": "슈링크 유니버스 '올림' 채수빈 6\"/인터뷰/메이킹 (IG)", "published": "2025-09-01~05", "views": "IG点赞1437/1126"},
+      {"campaign": "김나영 볼뉴머 디지털 광고 15\"", "published": "2026-01-04", "views": "142万"},
+      {"campaign": "리팟(re:spotlight) 삼총사/혼주/목장부부", "published": "2026-05-10前后", "views": "16万/23万/36万"},
+      {"campaign": "UP될 준비됐어? 종합편", "published": "2026-08-02", "views": "820万"},
+      {"campaign": "UP될 준비됐어? 여행편", "published": "2026-08-06", "views": "846万"},
+      {"campaign": "UP될 준비됐어? 직장인편", "published": "2026-08-31", "views": "810万"}
+    ],
+    "other": [
+      "볼뉴머 임지연/차주영 '피부속깊이'·'내일의 나를 기대해' 系列 (2025-2026, 单条15\"最高308万)",
+      "슈링크유니버스 고민시 '원하는대로 리프팅' 15\" 605万",
+      "슈링크 유니버스 TV CF 15\"/20\"/30\" 系列 (2025-2026)",
+      "볼뉴머 VIP Dinner 2026-08-13 (IG 2026-09-04)"
+    ],
+    "note": "明星TV广告+数字广告全量发布在YouTube，近一年广告视频总播放约6000万+"
+  },
+  "instagram": {
+    "alma": {"handle": "@alma.lasers.international", "followers": "7.9万", "posts_total": 1145, "year_posts": 163, "avg_likes": 105.9, "paid_partnership_tags": 0},
+    "classys_global": {"handle": "@classys.inc", "followers": "2万", "posts_total": 884, "year_posts": 161, "avg_likes": 214.2, "paid_partnership_tags": 0},
+    "classys_kr": {"handle": "@classys_kr", "followers": "1.8万", "posts_total": 149, "year_posts": 60, "avg_likes": 127.0}
+  },
+  "linkedin": "匿名访问被拦（404/需登录），未获取"
+}
